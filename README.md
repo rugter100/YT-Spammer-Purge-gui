@@ -9,7 +9,7 @@
         alt = 'Icon' 
     />
     <br>
-    YouTube Spammer Purge
+    YouTube Spammer Purge GUI version
     <br>
 </h1>
 
@@ -34,6 +34,9 @@
 </div>
 
 <br>
+
+**This program is very much not complete**
+This project is still in progress and very much not done. feel free to check it out though
 
 **What Is This?** - Allows you to filter and search for spammer comments on your channel and other's channel(s) in many different ways AND delete/report them all at once (see features below). 
 
