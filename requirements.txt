@@ -7,3 +7,5 @@ certifi>=2021.10.8
 six>=1.16.0
 python-Levenshtein>=0.12.2
 regex>=2022.1.18
+customtkinter==5.0.3
+pillow==9.3.0
